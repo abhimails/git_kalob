@@ -1,1 +1,3 @@
 This is the first file in a new branch. Kudos. I am learning GIT Fast!!!
+
+Merging this one github directly. Will pull for the changes.
